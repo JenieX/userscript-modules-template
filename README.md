@@ -1,7 +1,7 @@
 # userscript-modules-template
 User script template that acts as module and tries to simulate imports
 
-It assumes/requires few things
+### It assumes/requires few things
 * Nodejs
 * Visual Studio Code, and two extensions
   * Prettier
