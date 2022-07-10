@@ -58,7 +58,7 @@ I built this to help me developing my user scripts, after learning about [Grunt]
 }
 ```
 
-#### Relevant files are inside the `src` folder
+#### Relevant files are inside the [src](https://github.com/FlowerForWar/userscript-modules-template/tree/main/src) folder
 
 - src
   - index.js
@@ -101,6 +101,7 @@ console.log('userscript-modules-template');
 
 ```js
 // 'dist/userscript-modules-template.user.js' - The output
+// https://github.com/FlowerForWar/userscript-modules-template/blob/main/dist/userscript-modules-template.user.js
 
 // ==UserScript==
 // @name           userscript-modules-template
