@@ -1,7 +1,7 @@
 # userscript-modules-template
 
 User script template that acts as module and tries to simulate imports.  
-I built this to help me developing my user scripts, after learning about [Grunt](https://gruntjs.com/), and I thought I should share.
+I built this to help me develop my user scripts, after learning about [Grunt](https://gruntjs.com/), and I thought I should share.
 
 ### It assumes/requires few things
 
@@ -190,7 +190,7 @@ console.log('userscript-modules-template');
 
 ## Notes
 
-- Style files are `scss`, if you don't know what that is, just treat them like css files
+- Style files are `scss`, if you don't know what that is, just use them like css files
 - `html` and `scss` files can be nested inside their parent folders, but their names must be unique
 - If you don't want to use any css files or html files, keep their folders empty
 - `userscript-modules-template.dev.js` file will be created as well (the main reason for this project), which is basically a request to the `dist/userscript-modules-template.user.js` file that is needed to be served somehow.
