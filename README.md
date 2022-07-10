@@ -61,22 +61,23 @@ I built this to help me developing my user scripts, after learning about [Grunt]
 #### Relevant files are inside the [src](https://github.com/FlowerForWar/userscript-modules-template/tree/main/src) folder
 
 - src
-  - index.js
+  - [index.js](https://github.com/FlowerForWar/userscript-modules-template/blob/main/src/index.js)
   - js
-    - fancyFunction.js
-    - addStyle.js
+    - [fancyFunction.js](https://github.com/FlowerForWar/userscript-modules-template/blob/main/src/js/fancyFunction.js)
+    - [addStyle.js](https://github.com/FlowerForWar/userscript-modules-template/blob/main/src/js/addStyle.js)
     - nested
-      - myArray.js
+      - [myArray.js](https://github.com/FlowerForWar/userscript-modules-template/blob/main/src/js/nested/myArray.js)
       - more-nested
-        - myString.js
+        - [myString.js](https://github.com/FlowerForWar/userscript-modules-template/blob/main/src/js/nested/more-nested/myString.js)
   - css
-    - main.scss
-    - another.scss
+    - [main.scss](https://github.com/FlowerForWar/userscript-modules-template/blob/main/src/css/main.scss)
+    - [another.scss](https://github.com/FlowerForWar/userscript-modules-template/blob/main/src/css/another.scss)
   - html
-    - element.html
+    - [element.html](https://github.com/FlowerForWar/userscript-modules-template/blob/main/src/html/element.html)
 
 ```js
 // 'src/index.js' - The main js file
+// https://github.com/FlowerForWar/userscript-modules-template/blob/main/src/index.js
 
 import fancyFunction from './js/fancyFunction.js';
 import addStyle from './js/addStyle.js';
